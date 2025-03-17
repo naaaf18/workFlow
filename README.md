@@ -1,12 +1,44 @@
-# workFlow
-workflow using reactflow
-# Getting Started with Create React App
+# Workflow Builder using React Flow
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A drag-and-drop workflow builder built with React.js and React Flow. This tool allows users to create, modify, and visualize workflows dynamically.
+
+## Features
+- Drag and drop nodes
+- Connect nodes with edges
+- Custom node types
+- Save and load workflows
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/naaaf18/workFlow 
+
+2. Navigate into the project directory:
+cd workflow-builder
+
+### `npm install`
+Installs all necessary dependencies before running tests or starting the project.
+
+
+3. Start the development server:
+
+npm start
+Open http://localhost:3000 in your browser.
+
+## Usage 
+
+Drag nodes onto the canvas.
+Connect nodes to define a workflow.
+Customize node properties.
+
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+Installs all necessary dependencies before running tests or starting the project.
 
 ### `npm start`
 
